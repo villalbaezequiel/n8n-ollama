@@ -25,6 +25,6 @@ jobs:
             git pull origin main
             # Ejemplos según tu stack:
             # npm install && npm run build
-            docker compose up -d
+            # docker compose up -d
             # systemctl restart mi-servicio
             # pm2 restart mi-app
