@@ -1,0 +1,1 @@
+init project n8n-ollama
